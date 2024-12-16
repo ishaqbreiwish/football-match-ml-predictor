@@ -1,5 +1,4 @@
 ### **README.md**
-```markdown
 # Premier League Match Predictor
 
 This project predicts the winner of football matches in the **English Premier League (EPL)** using **machine learning**.
