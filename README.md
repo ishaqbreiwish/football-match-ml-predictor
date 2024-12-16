@@ -39,12 +39,13 @@ Alternatively, you can use the provided **`matches.csv`** file if you want to sk
    cd repository-name
    ```
 
-2. Open the **`scraping.ipynb`** notebook in JupyterLab or Google Colab.
+2. Open the **`scraping.ipynb`** notebook in JupyterLab or Google Colab to scrape the data. Then using the resulting matches.csv file (or the one provided in this repository), open the **`scraping.ipynb`** notebook to preprocess the data, and train the model.
 
 3. Run the notebook to:
    - Scrape the match data.
    - Clean and process the data.
    - Compute rolling averages of match statistics.
+   - Train the data on a random forest model
 
 ---
 
